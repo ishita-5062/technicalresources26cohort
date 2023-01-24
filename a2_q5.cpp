@@ -16,7 +16,6 @@ int main(){
             cout<<"   ";        }
         for (int j=n-2*i; j<=1; j++){
             cout<<"*  ";        }
-        cout<<endl;
-        
+        cout<<endl; 
     }
 }
